@@ -3,7 +3,7 @@ import os
 import sys
 
 try:
-    openai.api_key = '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'
+    openai.api_key = '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'
 except KeyError:
     sys.stderr.write("BAD")
     exit(1)
